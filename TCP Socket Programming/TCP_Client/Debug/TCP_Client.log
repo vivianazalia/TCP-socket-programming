@@ -1,0 +1,5 @@
+﻿  Client.cpp
+  main.cpp
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Asynchronous Socket Programming\TCP_Client\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  TCP_Client.vcxproj -> D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Asynchronous Socket Programming\TCP_Client\Debug\TCP_Client.exe
