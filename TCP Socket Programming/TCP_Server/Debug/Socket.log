@@ -1,0 +1,3 @@
+﻿  Server.cpp
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Asynchronous Socket Programming\Socket\Server.cpp(107,25): warning C4018: '<': signed/unsigned mismatch
+  Socket.vcxproj -> D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Asynchronous Socket Programming\Socket\Debug\Socket.exe
